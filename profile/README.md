@@ -2,30 +2,32 @@
 
 > *Think. Build. Evolve.*
 
-**Evolvify** is a blend of *evolve* and *vinify* — the process of turning something raw into something refined. Like in a winery, where grapes become wine through care, time and passion, here ideas become digital products through the same process.
+**Evolvify** nasce da *evolve* e *vinify* — il processo che trasforma qualcosa di grezzo in qualcosa di raffinato. Come in cantina, dove l'uva diventa vino con cura, tempo e passione, qui le idee diventano prodotti digitali attraverso lo stesso processo.
 
-Not an agency. Not a freelance portfolio.  
-A personal idea incubator — platforms, tools, products — built to solve real problems, driven by genuine passion for the digital world.
-
----
-
-## What you'll find here
-
-Projects born from an idea, developed until they become something real.  
-SaaS, tools, experiments — some finished, some still becoming.  
-Everything made with care, nothing as filler.
+Non un'agenzia. Non un portfolio.  
+Un incubatore di idee — piattaforme, strumenti, prodotti — costruiti per risolvere problemi veri, mossi da una passione autentica per il digitale.
 
 ---
 
-## Philosophy
+## Progetti
 
-The best ideas don't come from briefs or budgets.  
-They come from a problem that bothers you long enough  
-to make you fix it.
+Nati da un'idea e portati avanti finché non diventano qualcosa di reale.  
+SaaS, strumenti, esperimenti — alcuni finiti, altri ancora in divenire.  
+Tutto fatto con cura, niente come riempitivo.
 
-> *"The only way to do great work is to love what you do."*  
-> — Steve Jobs
+**[Database Comuni Italiani](https://databasecomuniitaliani.it)**  
+Il dataset completo di comuni, province e regioni d'Italia: codici ISTAT e catastali, CAP, PEC, popolazione e coordinate geografiche, distribuito in SQL, Excel, JSON e CSV.
+
+Tutti i progetti su **[evolvify.app](https://evolvify.app)**
 
 ---
 
-*Evolvify — where ideas become products.*
+## Filosofia
+
+Le idee migliori non nascono da brief o da budget.  
+Nascono da un problema che ti infastidisce abbastanza a lungo  
+da farti venire voglia di risolverlo.
+
+---
+
+*Evolvify — dove le idee diventano prodotti.*
